@@ -51,9 +51,8 @@ class SomeComponent extends Component {
 
 ## Adding the polyfill to your site
 
-The examples below show various ways to add the `IntersectionObserver` polyfill to your site.
-
 **Note:** For complete browser support you must also provide an [Intersection Observer polyfill](https://github.com/w3c/IntersectionObserver/tree/master/polyfill).
+The examples below show various ways to add the `IntersectionObserver` polyfill to your site.
 
 ```
 yarn add intersection-observer
