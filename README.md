@@ -36,7 +36,12 @@ class SomeComponent extends Component {
 
   render() {
     return (
-      <Observable options={options} onIntersection={this.onIntersection} onEnter={this.onEnter} onLeave={this.onLeave}>
+      <Observable
+        options={options}
+        onIntersection={this.onIntersection}
+        onEnter={this.onEnter}
+        onLeave={this.onLeave}
+      >
         <div>I am a observable item 👀</div>
       </Observable>
     )
@@ -73,7 +78,10 @@ import 'intersection-observer'
 **Using only for required browsers:**
 
 ```js
-if (typeof window !== 'undefined' && typeof window.IntersectionObserver === `undefined`) {
+if (
+  typeof window !== 'undefined' &&
+  typeof window.IntersectionObserver === `undefined`
+) {
   import(`intersection-observer`)
 }
 ```
