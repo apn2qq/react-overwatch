@@ -92,4 +92,4 @@ Intersection Observer is [pretty well supported](https://caniuse.com/#feat=inter
 
 ## Examples
 
-Coming soon...
+[Basic example](https://codesandbox.io/s/1wzr4866q3)
