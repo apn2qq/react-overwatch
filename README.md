@@ -93,3 +93,5 @@ Intersection Observer is [pretty well supported](https://caniuse.com/#feat=inter
 ## Examples
 
 [Basic example](https://codesandbox.io/s/1wzr4866q3)
+
+[Infinite scroll example](https://codesandbox.io/s/nr9ljym6wm)
