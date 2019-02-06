@@ -1,0 +1,9 @@
+.baseBlock {
+  height: 100vh;
+  display: grid;
+  align-content: center;
+  justify-items: center;
+}
+.watcher {
+  height: 1px;
+}
