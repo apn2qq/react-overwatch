@@ -31,7 +31,7 @@ class SomeComponent extends Component {
   }
 
   onIntersection = () => {
-    console.log('Some action on element intersection 🦜🦜')
+    console.log('Some action on element intersection ⚛️⚛️')
   }
 
   render() {
