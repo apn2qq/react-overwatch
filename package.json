@@ -1,0 +1,16 @@
+{
+  "name": "react-overwatch",
+  "version": "0.1.4",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:apn2qq/react-overwatch.git"
+  },
+  "keywords": [
+    "react",
+    "intersection observer",
+    "viewport",
+    "react-component"
+  ],
+  "license": "MIT"
+}
