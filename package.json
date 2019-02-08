@@ -10,7 +10,10 @@
     "react",
     "intersection observer",
     "viewport",
-    "react-component"
+    "react-component",
+    "inview",
+    "infinite",
+    "scroll"
   ],
   "license": "MIT"
 }

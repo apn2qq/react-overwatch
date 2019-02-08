@@ -78,10 +78,7 @@ import 'intersection-observer'
 **Using only for required browsers:**
 
 ```js
-if (
-  typeof window !== 'undefined' &&
-  typeof window.IntersectionObserver === `undefined`
-) {
+if (typeof window !== 'undefined' && typeof window.IntersectionObserver === `undefined`) {
   import(`intersection-observer`)
 }
 ```
